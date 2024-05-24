@@ -1,0 +1,41 @@
+
+BG_Main.png
+size: 1803,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 1, 343
+  size: 1082, 938
+  orig: 1082, 938
+  offset: 0, 0
+  index: -1
+bz
+  rotate: true
+  xy: 1084, 421
+  size: 860, 718
+  orig: 860, 761
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 625, 1
+  size: 357, 341
+  orig: 357, 341
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 1084, 54
+  size: 445, 366
+  orig: 445, 366
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 1, 23
+  size: 623, 319
+  orig: 653, 361
+  offset: 0, 0
+  index: -1

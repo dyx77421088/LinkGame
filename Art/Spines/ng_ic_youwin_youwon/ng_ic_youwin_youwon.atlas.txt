@@ -1,0 +1,76 @@
+
+ng_ic_youwin_youwon.png
+size: 1543,1295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z1
+  rotate: false
+  xy: 669, 275
+  size: 570, 107
+  orig: 571, 107
+  offset: 1, 0
+  index: -1
+Z11
+  rotate: false
+  xy: 669, 170
+  size: 576, 104
+  orig: 577, 104
+  offset: 1, 0
+  index: -1
+Z2
+  rotate: false
+  xy: 669, 69
+  size: 605, 100
+  orig: 606, 102
+  offset: 1, 1
+  index: -1
+Z22
+  rotate: false
+  xy: 1, 1
+  size: 667, 381
+  orig: 668, 384
+  offset: 0, 1
+  index: -1
+bab
+  rotate: false
+  xy: 1, 383
+  size: 1240, 911
+  orig: 1240, 911
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 1242, 529
+  size: 765, 255
+  orig: 893, 255
+  offset: 21, 0
+  index: -1
+d1
+  rotate: true
+  xy: 1246, 261
+  size: 267, 247
+  orig: 267, 247
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 1275, 145
+  size: 144, 115
+  orig: 144, 115
+  offset: 0, 0
+  index: -1
+dg
+  rotate: false
+  xy: 669, 17
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+tl
+  rotate: true
+  xy: 1498, 305
+  size: 989, 44
+  orig: 1000, 78
+  offset: 5, 13
+  index: -1

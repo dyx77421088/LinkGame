@@ -1,0 +1,160 @@
+
+ng_sym13_jackpot.png
+size: 916,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bjg
+  rotate: false
+  xy: 589, 92
+  size: 44, 45
+  orig: 50, 49
+  offset: 4, 4
+  index: -1
+g1
+  rotate: true
+  xy: 700, 167
+  size: 75, 64
+  orig: 89, 79
+  offset: 8, 6
+  index: -1
+ggg
+  rotate: true
+  xy: 590, 9
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1
+h
+  rotate: true
+  xy: 1, 77
+  size: 337, 457
+  orig: 337, 457
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 459, 138
+  size: 240, 276
+  orig: 241, 276
+  offset: 1, 0
+  index: -1
+s
+  rotate: true
+  xy: 707, 243
+  size: 171, 186
+  orig: 171, 186
+  offset: 0, 0
+  index: -1
+tx00
+  rotate: true
+  xy: 837, 169
+  size: 73, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx01
+  rotate: true
+  xy: 779, 19
+  size: 73, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx02
+  rotate: true
+  xy: 844, 95
+  size: 73, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx03
+  rotate: true
+  xy: 700, 92
+  size: 74, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx04
+  rotate: true
+  xy: 765, 168
+  size: 74, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx05
+  rotate: true
+  xy: 707, 17
+  size: 74, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx06
+  rotate: true
+  xy: 772, 93
+  size: 74, 71
+  orig: 100, 82
+  offset: 12, 3
+  index: -1
+tx07
+  rotate: true
+  xy: 299, 1
+  size: 75, 72
+  orig: 100, 82
+  offset: 11, 2
+  index: -1
+tx08
+  rotate: true
+  xy: 372, 1
+  size: 75, 72
+  orig: 100, 82
+  offset: 11, 2
+  index: -1
+tx09
+  rotate: true
+  xy: 445, 1
+  size: 75, 72
+  orig: 100, 82
+  offset: 11, 2
+  index: -1
+tx10
+  rotate: true
+  xy: 151, 1
+  size: 75, 73
+  orig: 100, 82
+  offset: 11, 1
+  index: -1
+tx11
+  rotate: true
+  xy: 225, 1
+  size: 75, 73
+  orig: 100, 82
+  offset: 11, 1
+  index: -1
+tx12
+  rotate: true
+  xy: 1, 1
+  size: 75, 74
+  orig: 100, 82
+  offset: 11, 0
+  index: -1
+tx13
+  rotate: true
+  xy: 76, 1
+  size: 75, 74
+  orig: 100, 82
+  offset: 11, 0
+  index: -1
+tx14
+  rotate: true
+  xy: 518, 2
+  size: 75, 71
+  orig: 100, 82
+  offset: 11, 3
+  index: -1
+x
+  rotate: false
+  xy: 459, 78
+  size: 129, 59
+  orig: 129, 59
+  offset: 0, 0
+  index: -1

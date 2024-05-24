@@ -1,0 +1,20 @@
+
+ng_ic_fly.png
+size: 141,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: true
+  xy: 84, 4
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+cb
+  rotate: true
+  xy: 1, 1
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1

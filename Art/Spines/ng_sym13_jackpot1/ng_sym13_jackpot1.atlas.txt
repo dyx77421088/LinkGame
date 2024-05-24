@@ -1,0 +1,41 @@
+
+ng_sym13_jackpot1.png
+size: 1424,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GRAND
+  rotate: false
+  xy: 323, 3
+  size: 319, 103
+  orig: 321, 107
+  offset: 1, 2
+  index: -1
+MAJOR
+  rotate: false
+  xy: 1, 1
+  size: 321, 105
+  orig: 323, 108
+  offset: 1, 1
+  index: -1
+MEGA
+  rotate: false
+  xy: 947, 15
+  size: 252, 91
+  orig: 254, 93
+  offset: 1, 1
+  index: -1
+MINI
+  rotate: false
+  xy: 1200, 14
+  size: 223, 92
+  orig: 225, 94
+  offset: 1, 1
+  index: -1
+MINOR
+  rotate: false
+  xy: 643, 2
+  size: 303, 104
+  orig: 305, 107
+  offset: 1, 1
+  index: -1

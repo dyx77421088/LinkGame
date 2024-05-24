@@ -1,0 +1,118 @@
+
+ng_sym6_gemstone.png
+size: 1109,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: true
+  xy: 1, 1
+  size: 178, 246
+  orig: 179, 246
+  offset: 1, 0
+  index: -1
+bdg
+  rotate: true
+  xy: 248, 1
+  size: 178, 246
+  orig: 179, 246
+  offset: 1, 0
+  index: -1
+d
+  rotate: false
+  xy: 338, 193
+  size: 324, 376
+  orig: 324, 376
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 495, 14
+  size: 178, 165
+  orig: 178, 197
+  offset: 0, 0
+  index: -1
+dig
+  rotate: true
+  xy: 661, 14
+  size: 178, 165
+  orig: 178, 197
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 1, 180
+  size: 336, 389
+  orig: 336, 389
+  offset: 0, 0
+  index: -1
+tx00
+  rotate: false
+  xy: 663, 429
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx01
+  rotate: false
+  xy: 663, 288
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx02
+  rotate: false
+  xy: 804, 429
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx03
+  rotate: false
+  xy: 804, 288
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx04
+  rotate: false
+  xy: 827, 147
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx05
+  rotate: false
+  xy: 945, 429
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx06
+  rotate: false
+  xy: 945, 288
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx07
+  rotate: false
+  xy: 968, 147
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx08
+  rotate: false
+  xy: 827, 6
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx09
+  rotate: false
+  xy: 968, 6
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

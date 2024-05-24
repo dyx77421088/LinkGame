@@ -1,0 +1,104 @@
+
+ng_sym9_eye.png
+size: 1588,1528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 737
+  size: 798, 790
+  orig: 798, 790
+  offset: 0, 0
+  index: -1
+di gg
+  rotate: false
+  xy: 1, 1
+  size: 709, 735
+  orig: 710, 735
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 1041, 103
+  size: 285, 238
+  orig: 285, 238
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 1388, 507
+  size: 224, 106
+  orig: 224, 106
+  offset: 0, 0
+  index: -1
+g3
+  rotate: true
+  xy: 1280, 164
+  size: 243, 236
+  orig: 243, 236
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 1499, 1449
+  size: 88, 78
+  orig: 131, 174
+  offset: 0, 96
+  index: -1
+hei
+  rotate: false
+  xy: 711, 389
+  size: 349, 345
+  orig: 349, 345
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 1280, 19
+  size: 144, 166
+  orig: 144, 167
+  offset: 0, 1
+  index: -1
+k o
+  rotate: false
+  xy: 1061, 408
+  size: 326, 323
+  orig: 326, 323
+  offset: 0, 0
+  index: -1
+kog
+  rotate: false
+  xy: 800, 735
+  size: 443, 441
+  orig: 443, 441
+  offset: 0, 0
+  index: -1
+oo
+  rotate: false
+  xy: 1447, 2
+  size: 138, 161
+  orig: 138, 161
+  offset: 0, 0
+  index: -1
+oo2
+  rotate: true
+  xy: 1244, 732
+  size: 444, 301
+  orig: 764, 301
+  offset: 160, 0
+  index: -1
+oo3
+  rotate: false
+  xy: 800, 1177
+  size: 698, 350
+  orig: 698, 350
+  offset: 0, 0
+  index: -1
+oo4
+  rotate: false
+  xy: 711, 53
+  size: 329, 335
+  orig: 329, 335
+  offset: 0, 0
+  index: -1

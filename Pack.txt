@@ -1,0 +1,16 @@
+Files:Bundle/Sound/Effect
+Files:Bundle/Sound/Music
+Bundle/Shader
+Bundle/Material
+Bundle/Prefab/SoundMgr
+Bundle/Prefab/PostProcess
+Bundle/Prefab/UI/Common
+Bundle/Prefab/UI/GM
+Bundle/Prefab/UI/Loading
+Bundle/Prefab/UI/Sound
+Bundle/Prefab/UI/Slot/Denom
+Bundle/Prefab/UI/Slot/Introduce
+Bundle/Prefab/UI/Slot/Previewer
+Bundle/Prefab/UI/Slot/SkillGame
+Bundle/Prefab/UI/Slot/Main
+Bundle/Prefab/UI/Slot/Pop

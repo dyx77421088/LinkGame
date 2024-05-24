@@ -1,0 +1,55 @@
+
+ng_sym12_wild.png
+size: 1498,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: true
+  xy: 539, 1
+  size: 488, 341
+  orig: 492, 345
+  offset: 2, 1
+  index: -1
+d
+  rotate: true
+  xy: 1, 18
+  size: 471, 537
+  orig: 472, 539
+  offset: 1, 1
+  index: -1
+g6
+  rotate: true
+  xy: 1371, 126
+  size: 238, 44
+  orig: 242, 64
+  offset: 3, 11
+  index: -1
+yw
+  rotate: true
+  xy: 1371, 365
+  size: 124, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+z1
+  rotate: true
+  xy: 1138, 17
+  size: 472, 232
+  orig: 474, 233
+  offset: 2, 1
+  index: -1
+z2
+  rotate: true
+  xy: 881, 2
+  size: 487, 256
+  orig: 489, 258
+  offset: 1, 2
+  index: -1
+z3
+  rotate: false
+  xy: 1371, 99
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1

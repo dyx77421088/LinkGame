@@ -1,0 +1,209 @@
+
+ng_sym11_fork.png
+size: 1692,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: false
+  xy: 1, 208
+  size: 241, 303
+  orig: 250, 315
+  offset: 9, 0
+  index: -1
+bd g
+  rotate: false
+  xy: 1564, 270
+  size: 49, 61
+  orig: 50, 63
+  offset: 1, 0
+  index: -1
+g1
+  rotate: false
+  xy: 1564, 225
+  size: 45, 44
+  orig: 50, 48
+  offset: 2, 2
+  index: -1
+k
+  rotate: false
+  xy: 243, 233
+  size: 240, 278
+  orig: 240, 278
+  offset: 0, 0
+  index: -1
+tx00
+  rotate: false
+  xy: 1, 28
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx01
+  rotate: false
+  xy: 484, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx02
+  rotate: false
+  xy: 635, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx03
+  rotate: false
+  xy: 786, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx04
+  rotate: false
+  xy: 937, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx05
+  rotate: false
+  xy: 1088, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx06
+  rotate: false
+  xy: 1239, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx07
+  rotate: false
+  xy: 1390, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx08
+  rotate: false
+  xy: 1541, 332
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx09
+  rotate: true
+  xy: 484, 181
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx10
+  rotate: true
+  xy: 664, 181
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx11
+  rotate: true
+  xy: 844, 181
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx12
+  rotate: true
+  xy: 1024, 181
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx13
+  rotate: true
+  xy: 1204, 181
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx14
+  rotate: true
+  xy: 1384, 181
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx15
+  rotate: false
+  xy: 152, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx16
+  rotate: false
+  xy: 303, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx17
+  rotate: false
+  xy: 454, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx18
+  rotate: false
+  xy: 605, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx19
+  rotate: false
+  xy: 756, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx20
+  rotate: false
+  xy: 907, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx21
+  rotate: false
+  xy: 1058, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx22
+  rotate: false
+  xy: 1209, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx23
+  rotate: false
+  xy: 1360, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+tx24
+  rotate: false
+  xy: 1511, 1
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
