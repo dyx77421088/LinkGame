@@ -60,7 +60,10 @@ end
 ------------------------------------------#regin 表现结果相关的-----------------------------------------------------
 --表现场景
 function RollView:RevealScene(...)
-
+	if ConfigData.debugLinkGame then
+		LMessage:Dispatch(LuaEvent.SmallGame.Reveal, Const.RevealType.Switch, Const.GameRule.Normal, Const.GameRule.Link)
+		return
+	end
 
 
 	local program = select(1, ...)
